@@ -1,0 +1,70 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "cafe con leche",
+      "precioProducto": "100",
+      "categoria": "bebida-caliente",
+      "id": 1
+    },
+    {
+      "nombreProducto": "medialuna x unidad",
+      "precioProducto": "20",
+      "categoria": "dulce",
+      "id": 3
+    },
+    {
+      "nombreProducto": "Licuado de durazno",
+      "precioProducto": "150",
+      "categoria": "bebida-fria",
+      "id": 4
+    },
+    {
+      "nombreProducto": "hola",
+      "precioProducto": "123",
+      "categoria": "dulce",
+      "id": 5
+    },
+    {
+      "nombreProducto": "asda",
+      "precioProducto": "12",
+      "categoria": "bebida-caliente",
+      "id": 6
+    },
+    {
+      "nombreProducto": "hola",
+      "precioProducto": "1231",
+      "categoria": "bebida-fria",
+      "id": 7
+    },
+    {
+      "nombreProducto": "ASDA",
+      "precioProducto": "12",
+      "categoria": "bebida-fria",
+      "id": 8
+    },
+    {
+      "nombreProducto": "chocolate",
+      "precioProducto": "52",
+      "categoria": "bebida-caliente",
+      "id": 9
+    },
+    {
+      "nombreProducto": "diaz",
+      "precioProducto": "121",
+      "categoria": "salado",
+      "id": 11
+    },
+    {
+      "nombreProducto": "galletas de vainilla",
+      "precioProducto": "50",
+      "categoria": "dulce",
+      "id": 14
+    },
+    {
+      "nombreProducto": "alfajor brownie",
+      "precioProducto": "33",
+      "categoria": "dulce",
+      "id": 15
+    }
+  ]
+}
